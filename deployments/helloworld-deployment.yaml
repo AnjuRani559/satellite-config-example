@@ -7,6 +7,7 @@ metadata:
     dummy: test
   name: helloworld-app
   namespace: toolchain-ns
+
 spec:
   replicas: 1
   selector:
